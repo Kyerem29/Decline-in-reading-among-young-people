@@ -1,0 +1,583 @@
+Gender,Age,Amount of time spent reading books per day,How to manage books for reading,Number of e-books you read last two years,Number of printed books you read last two years,Who influenced you to read books,The format that you used for reading books,Frequency of reading books
+Male,22,4,E-books,11-15,11-15,Teachers,Both,On everyday basis
+Male,23,2,E-books,More than 20,1-5,Self-Decision,Both,A few times a week
+Male,22,1,E-books,1-5,1-5,Self-Decision,E-books,A few times a month
+Female,21,1,Borrow,1-5,1-5,Friends,Printed,A few times a week
+Male,23,1,E-books,More than 20,1-5,Self-Decision,Both,Less than once a year
+Male,21,4,E-books,6-10,6-10,Self-Decision,E-books,On everyday basis
+Male,22,1,E-books,More than 20,1-5,Self-Decision,E-books,A few times a month
+Male,23,1,E-books,1-5,6-10,Parents,Both,On everyday basis
+Male,23,2,Others,11-15,6-10,Self-Decision,Both,A few times a week
+Male,23,1,E-books,1-5,6-10,Self-Decision,E-books,On everyday basis
+Female,21,3,Borrow,6-10,More than 20,Self-Decision,Printed,On everyday basis
+Male,20,3,E-books,6-10,1-5,Self-Decision,Both,A few times a week
+Female,20,1,Buy,1-5,6-10,Self-Decision,Printed,A few times a week
+Male,20,1,Buy,6-10,1-5,Self-Decision,Both,A few times a month
+Female,20,1,Buy,,1-5,Parents,Printed,Less than once a year
+Male,21,5,Buy,More than 20,More than 20,Teachers,Printed,On everyday basis
+Male,22,1,E-books,More than 20,1-5,Self-Decision,Both,A few times a week
+Male,21,1,E-books,1-5,1-5,Parents,Both,A few times a week
+Male,23,1,Others,,1-5,Self-Decision,Printed,On everyday basis
+Male,19,1,E-books,1-5,6-10,Parents,E-books,On everyday basis
+Male,23,2,Buy,More than 20,More than 20,Self-Decision,Printed,On everyday basis
+Male,23,1,Buy,,More than 20,Self-Decision,Printed,On everyday basis
+Male,19,4,E-books,6-10,1-5,Self-Decision,E-books,On everyday basis
+Male,22,1,E-books,6-10,1-5,Self-Decision,E-books,On everyday basis
+Female,22,1,E-books,11-15,6-10,Teachers,E-books,Once or twice a year
+Male,21,2,E-books,6-10,1-5,Self-Decision,Both,A few times a week
+Male,20,2,Buy,,More than 20,Teachers,E-books,On everyday basis
+Male,23,1,E-books,1-5,1-5,Teachers,Both,Less than once a year
+Female,22,1,E-books,1-5,1-5,Friends,Printed,A few times a month
+Male,21,1,Buy,,More than 20,Teachers,Printed,On everyday basis
+Male,22,2,Borrow,1-5,1-5,Self-Decision,Printed,On everyday basis
+Male,23,2,Others,11-15,16-20,Teachers,Both,A few times a month
+Male,22,2,Buy,More than 20,1-5,Self-Decision,E-books,On everyday basis
+Female,23,1,E-books,1-5,1-5,Self-Decision,Printed,On everyday basis
+Male,23,1,E-books,6-10,1-5,Teachers,Both,A few times a month
+Female,22,1,Others,1-5,6-10,Self-Decision,Both,On everyday basis
+Male,23,2,E-books,1-5,6-10,Self-Decision,Both,A few times a month
+Male,21,1,E-books,More than 20,More than 20,Parents,E-books,A few times a week
+Male,21,2,Buy,More than 20,11-15,Self-Decision,Both,On everyday basis
+Male,22,1,Others,6-10,11-15,Self-Decision,Both,A few times a week
+Male,23,4,E-books,1-5,1-5,Self-Decision,E-books,On everyday basis
+Male,22,1,E-books,More than 20,1-5,Teachers,E-books,A few times a week
+Male,20,1,E-books,1-5,1-5,Teachers,Printed,A few times a week
+Male,22,2,E-books,1-5,1-5,Friends,E-books,A few times a week
+Male,21,1,Buy,1-5,1-5,Self-Decision,Printed,A few times a week
+Male,22,1,Others,1-5,1-5,Teachers,Both,Less than once a year
+Male,22,1,Buy,1-5,1-5,Parents,Both,On everyday basis
+Male,23,2,E-books,More than 20,11-15,Self-Decision,E-books,On everyday basis
+Male,22,1,E-books,6-10,1-5,Self-Decision,Both,A few times a week
+Male,22,1,Buy,1-5,1-5,Self-Decision,Printed,A few times a week
+Male,23,1,Others,,1-5,Parents,Both,A few times a month
+Female,23,2,Buy,1-5,1-5,Teachers,Both,A few times a week
+Female,22,1,Buy,1-5,6-10,Self-Decision,Printed,A few times a week
+Male,21,1,Buy,1-5,1-5,Self-Decision,Both,A few times a month
+Male,21,2,Buy,More than 20,16-20,Parents,Printed,On everyday basis
+Male,20,3,E-books,6-10,6-10,Parents,Both,On everyday basis
+Female,21,3,Borrow,1-5,6-10,Teachers,Both,A few times a week
+Male,23,1,Others,1-5,1-5,Teachers,E-books,Once or twice a year
+Male,22,6,Buy,16-20,16-20,Self-Decision,Both,Less than once a year
+Male,22,1,E-books,6-10,11-15,Teachers,Both,A few times a month
+Male,22,1,Borrow,,6-10,Self-Decision,Printed,On everyday basis
+Female,21,2,Borrow,11-15,11-15,Parents,Printed,Less than once a year
+Male,21,1,Buy,,6-10,Self-Decision,E-books,A few times a week
+Male,22,1,E-books,1-5,1-5,Self-Decision,E-books,A few times a month
+Male,21,3,E-books,More than 20,More than 20,Self-Decision,Both,A few times a week
+Male,18,1,Buy,1-5,6-10,Parents,Both,On everyday basis
+Male,23,1,E-books,6-10,1-5,Self-Decision,E-books,A few times a week
+Male,23,4,Buy,1-5,1-5,Self-Decision,Printed,Less than once a year
+Male,23,1,E-books,More than 20,1-5,Self-Decision,Both,A few times a week
+Male,22,1,Buy,More than 20,More than 20,Friends,Both,On everyday basis
+Male,22,1,Buy,1-5,1-5,Self-Decision,Printed,A few times a week
+Male,20,4,Borrow,1-5,More than 20,Self-Decision,Both,On everyday basis
+Female,22,1,Others,,1-5,Self-Decision,Printed,A few times a week
+Male,22,1,Others,1-5,1-5,Self-Decision,Both,On everyday basis
+Male,23,1,Others,,1-5,Self-Decision,Printed,A few times a month
+Male,23,1,E-books,More than 20,1-5,Friends,E-books,Less than once a year
+Male,23,1,E-books,More than 20,More than 20,Self-Decision,E-books,On everyday basis
+Male,23,1,Borrow,1-5,1-5,Self-Decision,Both,A few times a week
+Male,22,2,E-books,11-15,6-10,Self-Decision,Both,On everyday basis
+Male,22,1,Buy,11-15,6-10,Teachers,Printed,A few times a month
+Male,19,3,Others,6-10,11-15,Self-Decision,Both,A few times a month
+Male,23,4,E-books,16-20,1-5,Self-Decision,Both,On everyday basis
+Male,21,1,E-books,More than 20,6-10,Self-Decision,E-books,A few times a week
+Female,22,1,E-books,More than 20,6-10,Self-Decision,Both,A few times a month
+Male,22,3,E-books,11-15,16-20,Parents,E-books,A few times a month
+Female,23,1,E-books,1-5,1-5,Self-Decision,E-books,A few times a week
+Male,23,1,E-books,1-5,More than 20,Self-Decision,Both,On everyday basis
+Female,21,3,E-books,6-10,6-10,Parents,Printed,On everyday basis
+Male,22,1,E-books,1-5,1-5,Self-Decision,E-books,A few times a week
+Male,22,1,Others,,1-5,Self-Decision,Both,On everyday basis
+Male,22,1,E-books,6-10,1-5,Friends,Printed,A few times a month
+Male,23,1,E-books,11-15,1-5,Teachers,E-books,A few times a month
+Male,23,1,E-books,1-5,1-5,Teachers,Both,A few times a month
+Female,21,1,Buy,,1-5,Self-Decision,Printed,On everyday basis
+Male,22,1,E-books,More than 20,6-10,Self-Decision,Both,A few times a week
+Male,22,3,E-books,11-15,1-5,Teachers,Printed,A few times a month
+Male,23,2,Buy,1-5,6-10,Parents,Both,A few times a week
+Male,21,1,E-books,1-5,,Friends,E-books,A few times a week
+Male,22,1,E-books,6-10,1-5,Self-Decision,Both,On everyday basis
+Male,20,7,E-books,6-10,6-10,Parents,Both,On everyday basis
+Male,22,2,Borrow,11-15,16-20,Parents,Both,On everyday basis
+Male,18,2,Buy,6-10,11-15,Self-Decision,Both,On everyday basis
+Male,22,3,E-books,More than 20,More than 20,Self-Decision,Printed,On everyday basis
+Male,19,1,E-books,6-10,1-5,Self-Decision,Both,A few times a week
+Male,23,1,E-books,11-15,1-5,Teachers,E-books,A few times a month
+Male,20,1,Buy,1-5,More than 20,Self-Decision,Printed,A few times a week
+Male,21,1,Used-all,6-10,More than 20,Self-Decision,Both,On everyday basis
+Male,21,1,Used-all,11-15,6-10,Parents,Printed,A few times a week
+Female,20,2,Borrow,16-20,1-5,Parents,Both,A few times a week
+Male,22,2,E-books,1-5,1-5,Friends,Both,A few times a month
+Male,21,4,Used-all,6-10,More than 20,Self-Decision,Printed,On everyday basis
+Male,19,1,E-books,,More than 20,Friends,E-books,On everyday basis
+Female,21,1,E-books,6-10,1-5,Self-Decision,Both,A few times a week
+Male,21,2,Buy,1-5,,Friends,Printed,A few times a week
+Female,21,4,Used-all,1-5,1-5,Teachers,Both,On everyday basis
+Male,22,1,Used-all,11-15,6-10,Self-Decision,Both,A few times a month
+Female,23,1,Used-all,1-5,11-15,Self-Decision,Both,A few times a week
+Male,23,1,Used-all,11-15,More than 20,Friends,Printed,On everyday basis
+Female,20,4,Used-all,More than 20,6-10,Self-Decision,Both,On everyday basis
+Male,23,4,Others,More than 20,More than 20,Self-Decision,Both,On everyday basis
+Male,21,1,Used-all,More than 20,6-10,Self-Decision,Both,A few times a week
+Female,21,3,Buy,1-5,6-10,Parents,Printed,On everyday basis
+Male,22,1,E-books,6-10,1-5,Self-Decision,E-books,A few times a week
+Male,22,1,Buy,1-5,,Self-Decision,Both,On everyday basis
+Male,21,3,E-books,More than 20,6-10,Self-Decision,Both,On everyday basis
+Male,22,4,Used-all,More than 20,More than 20,Self-Decision,Both,On everyday basis
+Female,21,1,E-books,6-10,,Friends,Both,On everyday basis
+Male,21,1,E-books,More than 20,More than 20,Self-Decision,Both,A few times a month
+Male,20,2,E-books,6-10,1-5,Self-Decision,E-books,A few times a week
+Male,22,2,E-books,1-5,11-15,Self-Decision,Both,On everyday basis
+Male,22,1,E-books,More than 20,6-10,Teachers,Both,On everyday basis
+Male,21,3,Used-all,1-5,More than 20,Self-Decision,Both,A few times a week
+Male,21,2,Used-all,6-10,1-5,Self-Decision,Both,A few times a week
+Male,21,1,Used-all,,1-5,Self-Decision,Both,A few times a month
+Male,22,4,Buy,1-5,More than 20,Teachers,Printed,A few times a week
+Male,22,2,E-books,6-10,1-5,Self-Decision,Both,A few times a month
+Male,21,2,E-books,1-5,1-5,Self-Decision,E-books,A few times a month
+Male,21,1,E-books,1-5,1-5,Self-Decision,E-books,A few times a week
+Male,23,1,Borrow,1-5,1-5,Friends,Printed,On everyday basis
+Male,22,1,E-books,More than 20,More than 20,Parents,Both,On everyday basis
+Male,20,8,Buy,11-15,1-5,Self-Decision,Both,On everyday basis
+Female,20,1,Used-all,1-5,,Self-Decision,Both,A few times a week
+Female,20,2,Buy,6-10,6-10,Self-Decision,Printed,A few times a week
+Male,22,1,E-books,6-10,1-5,Self-Decision,E-books,A few times a week
+Male,21,1,Used-all,1-5,,Self-Decision,Both,Once or twice a year
+Male,22,2,Used-all,16-20,More than 20,Self-Decision,Printed,On everyday basis
+Male,23,2,Used-all,More than 20,More than 20,Parents,Both,A few times a week
+Female,21,1,E-books,More than 20,1-5,Self-Decision,Both,A few times a week
+Female,18,2,Used-all,1-5,1-5,Self-Decision,Both,A few times a month
+Female,19,1,Used-all,More than 20,More than 20,Self-Decision,Both,A few times a week
+Female,23,2,Buy,1-5,11-15,Self-Decision,Both,A few times a week
+Male,22,1,E-books,More than 20,1-5,Self-Decision,Both,A few times a month
+Male,21,1,Others,,1-5,Self-Decision,Printed,On everyday basis
+Male,22,1,Buy,More than 20,1-5,Teachers,Printed,A few times a week
+Male,20,1,Used-all,,,Self-Decision,Printed,A few times a week
+Male,21,1,Buy,1-5,6-10,Self-Decision,Both,A few times a week
+Male,22,1,E-books,1-5,,Self-Decision,Both,A few times a week
+Male,22,1,Used-all,6-10,1-5,Friends,Both,A few times a month
+Male,20,1,E-books,,1-5,Self-Decision,Printed,A few times a month
+Male,21,1,Buy,1-5,1-5,Self-Decision,Both,A few times a week
+Male,22,1,Used-all,6-10,6-10,Self-Decision,Both,A few times a week
+Male,20,2,E-books,1-5,11-15,Self-Decision,E-books,On everyday basis
+Female,22,1,Others,1-5,1-5,Self-Decision,Both,A few times a month
+Male,21,1,Used-all,1-5,11-15,Friends,Both,A few times a month
+Male,21,1,Buy,1-5,1-5,Self-Decision,Printed,A few times a week
+Male,22,1,E-books,,1-5,Self-Decision,E-books,Once or twice a year
+Male,22,1,E-books,More than 20,More than 20,Self-Decision,Both,A few times a week
+Female,21,4,Buy,More than 20,16-20,Teachers,Both,On everyday basis
+Female,21,2,E-books,1-5,1-5,Self-Decision,Both,A few times a month
+Male,22,1,Used-all,1-5,1-5,Self-Decision,Printed,A few times a week
+Female,19,3,Used-all,1-5,More than 20,Self-Decision,Both,A few times a month
+Male,21,1,Others,1-5,1-5,Self-Decision,Printed,A few times a month
+Male,22,2,Used-all,More than 20,More than 20,Self-Decision,E-books,A few times a week
+Male,21,2,E-books,11-15,16-20,Self-Decision,Both,A few times a week
+Male,20,3,Buy,,,Friends,Printed,On everyday basis
+Male,21,4,Used-all,11-15,6-10,Self-Decision,Both,On everyday basis
+Male,21,2,Used-all,More than 20,More than 20,Self-Decision,Both,A few times a week
+Male,22,1,E-books,1-5,1-5,Self-Decision,E-books,On everyday basis
+Male,23,1,Others,11-15,6-10,Self-Decision,Both,A few times a week
+Male,20,1,E-books,1-5,6-10,Parents,Both,Once or twice a year
+Male,22,4,E-books,More than 20,More than 20,Self-Decision,Printed,On everyday basis
+Female,21,3,Used-all,,6-10,Self-Decision,Printed,A few times a month
+Male,21,1,Used-all,6-10,6-10,Self-Decision,E-books,A few times a week
+Male,22,1,Used-all,1-5,More than 20,Self-Decision,Both,A few times a week
+Male,21,2,Used-all,6-10,11-15,Friends,Printed,A few times a week
+Male,22,1,E-books,1-5,1-5,Friends,E-books,Once or twice a year
+Male,20,1,Used-all,More than 20,11-15,Self-Decision,Both,On everyday basis
+Female,20,1,Buy,More than 20,More than 20,Self-Decision,Both,A few times a week
+Male,22,3,Buy,More than 20,More than 20,Self-Decision,Printed,On everyday basis
+Male,21,1,E-books,More than 20,6-10,Self-Decision,E-books,A few times a week
+Male,21,2,E-books,11-15,6-10,Self-Decision,E-books,A few times a month
+Male,21,1,Borrow,1-5,1-5,Friends,Printed,Once or twice a year
+Male,22,1,E-books,1-5,1-5,Teachers,Both,A few times a week
+Male,22,2,Buy,,6-10,Self-Decision,Printed,On everyday basis
+Male,23,1,Buy,,1-5,Self-Decision,Both,A few times a week
+Male,23,1,E-books,1-5,1-5,Self-Decision,Both,A few times a week
+Male,23,1,E-books,6-10,6-10,Self-Decision,Both,On everyday basis
+Male,22,2,E-books,11-15,1-5,Self-Decision,E-books,On everyday basis
+Male,21,1,E-books,1-5,1-5,Teachers,Both,Less than once a year
+Male,22,1,Others,,,Self-Decision,Both,Less than once a year
+Male,18,4,Others,More than 20,More than 20,Self-Decision,E-books,On everyday basis
+Male,22,1,E-books,1-5,6-10,Parents,E-books,On everyday basis
+Male,22,1,Buy,6-10,1-5,Self-Decision,Printed,A few times a week
+Female,21,1,E-books,6-10,1-5,Teachers,Both,A few times a week
+Male,23,2,Used-all,More than 20,More than 20,Teachers,Both,On everyday basis
+Male,21,1,Used-all,6-10,6-10,Self-Decision,Printed,On everyday basis
+Male,23,4,Others,More than 20,More than 20,Self-Decision,Both,On everyday basis
+Male,22,2,Buy,6-10,6-10,Teachers,Both,On everyday basis
+Male,19,1,Buy,6-10,6-10,Self-Decision,Both,A few times a week
+Male,23,1,Used-all,6-10,6-10,Self-Decision,Both,On everyday basis
+Male,23,4,E-books,More than 20,6-10,Self-Decision,E-books,On everyday basis
+Male,22,1,E-books,11-15,16-20,Friends,Both,On everyday basis
+Male,22,6,E-books,,,Friends,Printed,On everyday basis
+Female,22,4,E-books,More than 20,More than 20,Self-Decision,Both,On everyday basis
+Male,22,3,Used-all,6-10,11-15,Teachers,Both,On everyday basis
+Male,22,1,Used-all,,1-5,Self-Decision,Printed,On everyday basis
+Female,22,2,Borrow,,More than 20,Parents,Printed,A few times a month
+Male,22,1,Used-all,6-10,1-5,Friends,Both,A few times a week
+Female,22,4,Used-all,More than 20,More than 20,Parents,Both,Less than once a year
+Male,22,3,Buy,6-10,6-10,Parents,Printed,On everyday basis
+Male,22,1,Used-all,11-15,11-15,Teachers,Both,A few times a week
+Male,22,1,Used-all,1-5,1-5,Teachers,Printed,A few times a week
+Male,22,1,Others,6-10,1-5,Self-Decision,Both,A few times a month
+Male,23,4,Others,6-10,1-5,Self-Decision,Both,A few times a week
+Male,22,1,E-books,11-15,1-5,Teachers,E-books,On everyday basis
+Male,22,1,Used-all,6-10,6-10,Teachers,Both,On everyday basis
+Male,20,2,Used-all,16-20,More than 20,Self-Decision,Printed,On everyday basis
+Male,21,1,E-books,1-5,11-15,Self-Decision,Printed,On everyday basis
+Male,21,4,Buy,More than 20,6-10,Self-Decision,Both,A few times a week
+Female,23,1,Used-all,1-5,1-5,Self-Decision,Printed,A few times a week
+Female,22,4,Used-all,,6-10,Self-Decision,Both,A few times a week
+Male,21,1,E-books,6-10,11-15,Parents,Both,On everyday basis
+Male,23,1,Others,1-5,1-5,Self-Decision,Printed,On everyday basis
+Male,23,3,E-books,16-20,11-15,Self-Decision,E-books,On everyday basis
+Male,19,2,Used-all,6-10,1-5,Self-Decision,Both,Once or twice a year
+Male,22,1,E-books,6-10,1-5,Self-Decision,Printed,A few times a week
+Female,22,2,E-books,6-10,1-5,Parents,Both,A few times a week
+Male,23,1,E-books,,,Teachers,E-books,A few times a month
+Male,21,1,E-books,,1-5,Self-Decision,Printed,On everyday basis
+Female,22,1,Others,6-10,1-5,Parents,Both,A few times a week
+Female,21,3,Used-all,1-5,More than 20,Friends,Both,A few times a week
+Female,21,4,Used-all,More than 20,16-20,Self-Decision,Both,On everyday basis
+Male,21,1,Used-all,6-10,1-5,Teachers,Both,A few times a month
+Female,21,3,Used-all,1-5,1-5,Friends,Both,A few times a week
+Male,21,2,Used-all,More than 20,11-15,Self-Decision,Both,A few times a week
+Male,21,2,Used-all,More than 20,More than 20,Self-Decision,Both,On everyday basis
+Male,22,2,E-books,More than 20,More than 20,Self-Decision,Both,A few times a week
+Male,21,2,Others,11-15,11-15,Self-Decision,Printed,On everyday basis
+Male,22,1,E-books,1-5,1-5,Friends,Printed,On everyday basis
+Female,20,3,Used-all,,6-10,Friends,Both,On everyday basis
+Male,21,2,Borrow,6-10,1-5,Friends,Printed,A few times a month
+Male,22,1,E-books,6-10,6-10,Self-Decision,E-books,Once or twice a year
+Male,21,1,E-books,1-5,More than 20,Parents,Both,On everyday basis
+Female,21,3,Buy,,16-20,Self-Decision,Printed,A few times a month
+Male,21,2,Used-all,6-10,6-10,Parents,Both,On everyday basis
+Male,20,2,Used-all,6-10,More than 20,Parents,Both,On everyday basis
+Male,20,1,E-books,6-10,6-10,Friends,Both,A few times a week
+Male,22,1,Used-all,6-10,1-5,Teachers,Both,A few times a week
+Male,22,1,Used-all,6-10,1-5,Self-Decision,Both,A few times a month
+Male,22,2,Others,1-5,6-10,Parents,Both,A few times a week
+Male,22,2,E-books,6-10,6-10,Friends,E-books,A few times a month
+Male,21,3,Used-all,1-5,11-15,Friends,Printed,A few times a month
+Male,22,1,E-books,1-5,1-5,Self-Decision,E-books,A few times a month
+Male,21,1,E-books,11-15,6-10,Self-Decision,Both,A few times a week
+Female,20,2,Used-all,6-10,11-15,Self-Decision,Both,A few times a week
+Male,21,1,E-books,6-10,1-5,Self-Decision,Both,A few times a week
+Male,21,1,Buy,,1-5,Self-Decision,Both,Less than once a year
+Female,21,2,Used-all,11-15,11-15,Self-Decision,E-books,A few times a week
+Male,21,1,E-books,More than 20,6-10,Self-Decision,Both,A few times a week
+Male,21,1,Others,,1-5,Self-Decision,Both,On everyday basis
+Female,21,1,Used-all,1-5,1-5,Self-Decision,Printed,A few times a month
+Male,21,1,E-books,More than 20,6-10,Self-Decision,Both,A few times a week
+Male,21,1,Buy,6-10,6-10,Parents,Both,A few times a month
+Male,20,1,E-books,1-5,1-5,Parents,Both,A few times a week
+Male,22,7,Used-all,More than 20,More than 20,Self-Decision,Both,On everyday basis
+Male,21,1,Borrow,6-10,16-20,Self-Decision,Printed,On everyday basis
+Female,19,1,Used-all,More than 20,More than 20,Self-Decision,E-books,On everyday basis
+Female,21,2,Buy,1-5,1-5,Self-Decision,Both,On everyday basis
+Female,20,3,E-books,1-5,6-10,Teachers,E-books,On everyday basis
+Male,23,1,Borrow,1-5,1-5,Self-Decision,Both,On everyday basis
+Female,21,1,E-books,1-5,11-15,Self-Decision,Printed,A few times a week
+Male,21,1,Used-all,,,Teachers,Both,On everyday basis
+Female,22,1,Buy,1-5,16-20,Self-Decision,Both,On everyday basis
+Female,18,1,Used-all,1-5,11-15,Parents,Printed,A few times a month
+Female,19,1,Used-all,,6-10,Teachers,Printed,On everyday basis
+Male,20,1,Borrow,,,Self-Decision,Both,A few times a week
+Female,23,1,Borrow,1-5,1-5,Self-Decision,Printed,A few times a week
+Female,22,2,Others,,1-5,Self-Decision,Printed,On everyday basis
+Male,20,4,Buy,6-10,More than 20,Self-Decision,Printed,A few times a month
+Male,21,1,Borrow,16-20,1-5,Teachers,Printed,On everyday basis
+Male,20,2,Used-all,1-5,1-5,Self-Decision,Both,A few times a week
+Male,21,2,Buy,6-10,More than 20,Self-Decision,Both,On everyday basis
+Male,21,2,E-books,1-5,11-15,Self-Decision,Printed,On everyday basis
+Male,21,2,Borrow,,6-10,Teachers,Printed,On everyday basis
+Male,21,2,Borrow,11-15,11-15,Friends,Printed,A few times a week
+Male,20,3,Buy,,1-5,Self-Decision,Both,On everyday basis
+Male,21,2,Buy,11-15,More than 20,Self-Decision,Both,On everyday basis
+Male,22,4,Used-all,1-5,16-20,Self-Decision,Both,On everyday basis
+Male,21,2,Used-all,,More than 20,Parents,Printed,On everyday basis
+Male,21,3,Buy,,6-10,Friends,Both,On everyday basis
+Male,19,2,Used-all,1-5,More than 20,Parents,Both,On everyday basis
+Male,21,2,Buy,,1-5,Self-Decision,Printed,On everyday basis
+Male,23,4,Used-all,More than 20,More than 20,Self-Decision,Both,On everyday basis
+Male,21,2,Used-all,6-10,More than 20,Self-Decision,Printed,On everyday basis
+Male,23,4,Used-all,,,Self-Decision,Both,On everyday basis
+Male,20,1,Used-all,More than 20,11-15,Teachers,Both,On everyday basis
+Male,21,2,Used-all,1-5,6-10,Parents,Both,On everyday basis
+Male,20,2,Buy,,1-5,Self-Decision,Printed,A few times a week
+Male,21,4,Used-all,1-5,6-10,Self-Decision,Both,On everyday basis
+Male,22,4,Others,,,Parents,Printed,On everyday basis
+Male,20,4,E-books,More than 20,,Self-Decision,Printed,On everyday basis
+Male,22,1,Buy,1-5,6-10,Self-Decision,Printed,On everyday basis
+Male,19,3,Used-all,1-5,1-5,Self-Decision,Both,A few times a week
+Male,20,1,Used-all,,16-20,Teachers,Printed,A few times a week
+Male,21,1,Others,,1-5,Self-Decision,Printed,Less than once a year
+Male,22,1,Used-all,1-5,1-5,Parents,Both,A few times a week
+Male,23,2,Buy,6-10,,Parents,Printed,A few times a week
+Male,23,2,Used-all,More than 20,6-10,Self-Decision,Both,On everyday basis
+Male,22,1,Buy,1-5,More than 20,Friends,Both,A few times a week
+Female,22,1,Others,,,Self-Decision,Printed,Once or twice a year
+Male,22,1,E-books,More than 20,6-10,Self-Decision,Printed,On everyday basis
+Female,22,3,E-books,6-10,1-5,Self-Decision,Printed,A few times a week
+Male,22,1,Others,1-5,1-5,Teachers,Both,On everyday basis
+Male,22,1,Used-all,,,Parents,Both,A few times a month
+Female,22,1,E-books,16-20,6-10,Self-Decision,Both,A few times a week
+Female,22,3,Used-all,More than 20,More than 20,Self-Decision,Both,On everyday basis
+Male,21,1,E-books,More than 20,1-5,Self-Decision,E-books,On everyday basis
+Male,22,1,E-books,11-15,1-5,Teachers,Both,A few times a week
+Male,23,1,Buy,11-15,11-15,Self-Decision,Both,A few times a week
+Male,22,1,Buy,,6-10,Self-Decision,Printed,On everyday basis
+Male,22,2,E-books,6-10,1-5,Self-Decision,Both,A few times a week
+Male,23,1,E-books,More than 20,More than 20,Self-Decision,Both,On everyday basis
+Male,22,2,E-books,1-5,,Teachers,E-books,On everyday basis
+Male,22,1,E-books,6-10,1-5,Teachers,E-books,A few times a month
+Female,23,1,E-books,,,Teachers,E-books,Once or twice a year
+Female,21,2,Buy,1-5,6-10,Self-Decision,Both,A few times a month
+Female,22,2,Used-all,1-5,6-10,Self-Decision,Both,A few times a week
+Male,22,1,Borrow,11-15,,Parents,Printed,A few times a week
+Male,22,1,Borrow,1-5,1-5,Self-Decision,Both,A few times a week
+Male,22,1,E-books,1-5,1-5,Self-Decision,Both,On everyday basis
+Male,22,1,E-books,11-15,11-15,Self-Decision,E-books,On everyday basis
+Male,22,2,Used-all,1-5,11-15,Self-Decision,Both,On everyday basis
+Female,22,2,Buy,6-10,1-5,Self-Decision,Printed,On everyday basis
+Female,22,1,Borrow,More than 20,11-15,Friends,Printed,On everyday basis
+Male,22,1,E-books,More than 20,More than 20,Self-Decision,Both,On everyday basis
+Male,23,1,Used-all,More than 20,,Self-Decision,E-books,A few times a week
+Male,22,1,E-books,More than 20,6-10,Self-Decision,Both,Once or twice a year
+Male,22,1,E-books,6-10,6-10,Friends,Both,A few times a week
+Female,22,2,Others,6-10,1-5,Self-Decision,Printed,On everyday basis
+Male,23,4,Used-all,,1-5,Self-Decision,E-books,On everyday basis
+Male,22,1,Buy,11-15,More than 20,Self-Decision,Both,A few times a week
+Male,23,1,Others,11-15,,Self-Decision,E-books,A few times a month
+Male,23,4,E-books,1-5,1-5,Self-Decision,Both,A few times a week
+Male,23,2,Others,,1-5,Self-Decision,Printed,A few times a week
+Male,22,2,Buy,,More than 20,Self-Decision,Printed,A few times a week
+Female,20,8,E-books,More than 20,,Self-Decision,E-books,On everyday basis
+Female,20,2,Others,6-10,6-10,Teachers,Printed,A few times a week
+Male,23,1,E-books,16-20,1-5,Self-Decision,E-books,A few times a month
+Male,22,1,Used-all,1-5,11-15,Self-Decision,Both,A few times a week
+Female,22,4,E-books,16-20,1-5,Self-Decision,E-books,On everyday basis
+Male,22,2,Buy,1-5,1-5,Self-Decision,Both,A few times a week
+Female,22,4,Borrow,More than 20,More than 20,Self-Decision,E-books,A few times a month
+Male,21,2,E-books,More than 20,6-10,Self-Decision,E-books,A few times a month
+Male,21,2,Buy,11-15,More than 20,Self-Decision,Both,On everyday basis
+Male,23,2,Used-all,1-5,6-10,Self-Decision,Both,Less than once a year
+Male,22,4,Borrow,1-5,1-5,Parents,Both,A few times a month
+Male,20,4,Others,,1-5,Self-Decision,Both,On everyday basis
+Male,21,2,Buy,1-5,1-5,Self-Decision,Both,On everyday basis
+Female,22,1,Buy,,More than 20,Parents,Printed,A few times a week
+Male,23,3,Used-all,11-15,1-5,Teachers,Both,A few times a week
+Male,23,1,E-books,More than 20,More than 20,Self-Decision,Both,A few times a week
+Male,23,1,Buy,1-5,11-15,Self-Decision,Both,A few times a week
+Male,21,2,Used-all,More than 20,11-15,Self-Decision,Both,On everyday basis
+Male,22,3,Buy,,More than 20,Parents,Printed,A few times a week
+Male,23,1,E-books,6-10,11-15,Self-Decision,Printed,A few times a week
+Female,22,1,Others,1-5,1-5,Self-Decision,Both,A few times a month
+Male,22,1,E-books,6-10,1-5,Teachers,Both,Once or twice a year
+Male,21,1,E-books,11-15,,Self-Decision,E-books,On everyday basis
+Male,22,1,Buy,1-5,1-5,Teachers,Both,On everyday basis
+Male,22,1,Others,6-10,,Self-Decision,Printed,Less than once a year
+Male,22,1,Used-all,More than 20,6-10,Teachers,Both,On everyday basis
+Female,20,2,Buy,1-5,6-10,Parents,Both,A few times a week
+Female,22,1,Used-all,1-5,,Self-Decision,Both,A few times a month
+Male,23,2,Buy,,,Self-Decision,Both,On everyday basis
+Female,20,2,E-books,1-5,More than 20,Self-Decision,Both,On everyday basis
+Male,22,1,E-books,1-5,,Parents,Both,On everyday basis
+Male,22,1,Others,More than 20,,Friends,Both,Less than once a year
+Male,21,1,E-books,11-15,16-20,Self-Decision,Both,A few times a week
+Male,22,2,E-books,6-10,6-10,Teachers,E-books,On everyday basis
+Male,22,2,E-books,6-10,6-10,Teachers,E-books,A few times a week
+Male,23,1,Used-all,,1-5,Self-Decision,Both,On everyday basis
+Male,22,3,Buy,More than 20,6-10,Self-Decision,Printed,A few times a month
+Male,21,1,E-books,More than 20,6-10,Self-Decision,Both,A few times a week
+Male,23,1,Used-all,1-5,6-10,Self-Decision,Both,A few times a week
+Male,22,1,Used-all,11-15,6-10,Self-Decision,Both,A few times a week
+Male,20,1,Borrow,1-5,More than 20,Self-Decision,Printed,A few times a week
+Female,21,1,Buy,1-5,1-5,Self-Decision,Both,On everyday basis
+Male,22,1,Buy,,1-5,Parents,Printed,On everyday basis
+Male,20,3,Borrow,6-10,More than 20,Friends,E-books,A few times a week
+Female,21,3,Used-all,6-10,11-15,Self-Decision,Both,On everyday basis
+Male,21,2,Used-all,,,Self-Decision,Both,A few times a week
+Female,21,1,Others,,,Self-Decision,Printed,A few times a week
+Male,21,2,Used-all,6-10,16-20,Self-Decision,Printed,A few times a week
+Male,20,2,Used-all,6-10,More than 20,Self-Decision,Both,On everyday basis
+Male,20,1,Buy,1-5,1-5,Self-Decision,Printed,A few times a month
+Male,22,1,Used-all,6-10,6-10,Friends,Both,A few times a week
+Male,21,1,E-books,1-5,1-5,Self-Decision,Both,A few times a week
+Male,23,2,Borrow,11-15,1-5,Self-Decision,Both,On everyday basis
+Male,21,4,Used-all,More than 20,More than 20,Parents,Both,A few times a week
+Male,22,1,E-books,1-5,1-5,Teachers,E-books,A few times a week
+Female,22,2,Used-all,6-10,1-5,Teachers,Both,A few times a week
+Female,23,1,E-books,11-15,,Self-Decision,E-books,A few times a week
+Female,22,1,Others,,,Self-Decision,E-books,Less than once a year
+Male,21,1,Others,,,Self-Decision,Both,Once or twice a year
+Female,22,1,Used-all,1-5,6-10,Self-Decision,Both,A few times a week
+Male,22,2,Borrow,1-5,,Parents,Both,A few times a week
+Female,23,1,Others,1-5,1-5,Self-Decision,Both,A few times a week
+Male,22,1,E-books,16-20,6-10,Self-Decision,E-books,A few times a week
+Male,20,2,Buy,,1-5,Friends,Printed,A few times a week
+Male,21,2,Buy,,More than 20,Self-Decision,Printed,On everyday basis
+Male,21,2,Used-all,16-20,6-10,Teachers,Both,On everyday basis
+Female,20,2,Used-all,,,Self-Decision,Both,A few times a week
+Male,22,3,Used-all,1-5,1-5,Teachers,Both,A few times a week
+Male,20,1,Buy,,1-5,Teachers,Both,On everyday basis
+Female,21,2,Used-all,6-10,More than 20,Self-Decision,Both,On everyday basis
+Female,21,1,Used-all,More than 20,11-15,Self-Decision,Both,A few times a month
+Female,21,4,Used-all,1-5,,Self-Decision,Both,On everyday basis
+Male,23,2,E-books,1-5,6-10,Parents,Both,A few times a week
+Male,22,1,Used-all,1-5,More than 20,Self-Decision,Printed,On everyday basis
+Male,22,1,E-books,More than 20,6-10,Self-Decision,Both,A few times a week
+Male,22,3,Buy,6-10,More than 20,Self-Decision,Both,On everyday basis
+Female,22,2,Buy,11-15,1-5,Self-Decision,Both,A few times a month
+Female,21,4,Used-all,16-20,6-10,Parents,Printed,A few times a week
+Female,22,1,Buy,,6-10,Friends,Printed,On everyday basis
+Female,22,1,Buy,,6-10,Friends,Printed,On everyday basis
+Male,23,2,Used-all,16-20,16-20,Self-Decision,Both,On everyday basis
+Male,22,2,Used-all,6-10,1-5,Self-Decision,Printed,On everyday basis
+Female,21,1,Used-all,16-20,6-10,Parents,Both,On everyday basis
+Female,21,1,Used-all,More than 20,11-15,Parents,Printed,A few times a week
+Female,21,1,Buy,11-15,6-10,Self-Decision,Both,A few times a month
+Male,21,1,Buy,11-15,11-15,Parents,Printed,A few times a week
+Female,22,1,Buy,11-15,11-15,Teachers,Printed,A few times a week
+Male,22,2,E-books,11-15,6-10,Parents,Both,A few times a week
+Male,22,1,E-books,6-10,1-5,Self-Decision,E-books,A few times a month
+Male,22,1,E-books,1-5,1-5,Self-Decision,E-books,Once or twice a year
+Male,23,2,E-books,11-15,1-5,Self-Decision,Both,A few times a week
+Male,22,1,E-books,1-5,1-5,Teachers,Printed,On everyday basis
+Male,23,1,Buy,1-5,6-10,Friends,Both,On everyday basis
+Female,22,1,E-books,6-10,16-20,Friends,Both,A few times a week
+Female,21,4,Used-all,1-5,More than 20,Teachers,Both,On everyday basis
+Female,22,1,Borrow,,1-5,Parents,Printed,A few times a month
+Female,22,3,Used-all,11-15,More than 20,Parents,Printed,On everyday basis
+Female,21,4,Used-all,11-15,1-5,Self-Decision,Both,A few times a week
+Male,22,1,Used-all,6-10,6-10,Friends,Printed,A few times a week
+Female,21,4,Used-all,1-5,More than 20,Self-Decision,Both,On everyday basis
+Male,21,1,Used-all,1-5,1-5,Self-Decision,Both,A few times a month
+Female,21,3,Used-all,1-5,More than 20,Self-Decision,Both,A few times a week
+Female,23,2,Borrow,,More than 20,Self-Decision,Printed,A few times a week
+Male,20,1,E-books,1-5,1-5,Teachers,E-books,On everyday basis
+Female,21,2,Others,1-5,,Friends,Both,On everyday basis
+Male,22,1,Used-all,1-5,More than 20,Teachers,Both,On everyday basis
+Female,21,1,E-books,1-5,1-5,Self-Decision,E-books,A few times a week
+Female,18,1,Borrow,,1-5,Self-Decision,Printed,On everyday basis
+Female,21,1,E-books,1-5,1-5,Teachers,E-books,A few times a month
+Male,23,3,Used-all,11-15,16-20,Self-Decision,Both,On everyday basis
+Male,23,2,Used-all,6-10,More than 20,Self-Decision,Both,On everyday basis
+Male,21,2,Used-all,6-10,11-15,Parents,Printed,A few times a week
+Female,22,3,Buy,,6-10,Self-Decision,Printed,A few times a month
+Female,22,1,Others,,More than 20,Self-Decision,Printed,Once or twice a year
+Female,20,2,Used-all,1-5,6-10,Self-Decision,Printed,A few times a week
+Male,22,1,E-books,16-20,16-20,Self-Decision,Both,On everyday basis
+Male,21,1,Used-all,11-15,1-5,Teachers,Both,A few times a week
+Female,21,1,E-books,6-10,6-10,Self-Decision,Both,A few times a week
+Male,19,1,E-books,11-15,6-10,Self-Decision,E-books,A few times a week
+Male,21,2,Used-all,6-10,6-10,Parents,Both,A few times a week
+Female,21,1,Used-all,1-5,6-10,Self-Decision,Printed,A few times a week
+Female,22,2,Others,,1-5,Parents,Printed,A few times a week
+Male,21,4,Used-all,More than 20,More than 20,Parents,Both,On everyday basis
+Female,22,1,Others,1-5,1-5,Teachers,Both,A few times a week
+Male,21,1,Borrow,1-5,,Self-Decision,Both,A few times a month
+Male,22,2,Used-all,6-10,11-15,Self-Decision,Both,A few times a week
+Male,22,1,Buy,1-5,11-15,Parents,Both,On everyday basis
+Female,21,1,Used-all,6-10,11-15,Self-Decision,E-books,A few times a week
+Female,22,1,Used-all,6-10,More than 20,Self-Decision,Both,A few times a month
+Female,20,4,Used-all,1-5,More than 20,Self-Decision,Both,On everyday basis
+Female,21,1,Used-all,11-15,6-10,Self-Decision,Both,A few times a week
+Male,23,1,Others,6-10,6-10,Self-Decision,Printed,A few times a week
+Female,20,1,Buy,1-5,,Self-Decision,Printed,A few times a week
+Male,20,4,Others,1-5,,Self-Decision,Printed,Once or twice a year
+Female,20,2,Buy,,6-10,Self-Decision,Both,On everyday basis
+Male,21,3,Used-all,6-10,More than 20,Self-Decision,Both,On everyday basis
+Male,21,4,E-books,1-5,More than 20,Self-Decision,Both,On everyday basis
+Female,23,1,E-books,6-10,1-5,Self-Decision,Both,A few times a week
+Female,20,1,Used-all,,,Self-Decision,Printed,Once or twice a year
+Female,20,4,Used-all,More than 20,16-20,Self-Decision,Both,A few times a week
+Female,18,2,Used-all,1-5,More than 20,Self-Decision,Both,On everyday basis
+Female,19,2,Used-all,1-5,More than 20,Self-Decision,Both,On everyday basis
+Male,22,1,E-books,1-5,1-5,Self-Decision,Both,On everyday basis
+Female,20,2,Others,1-5,More than 20,Self-Decision,Both,A few times a week
+Male,19,1,Buy,6-10,1-5,Parents,Both,A few times a week
+Female,19,1,Used-all,1-5,1-5,Teachers,Both,On everyday basis
+Male,22,1,E-books,6-10,6-10,Self-Decision,E-books,On everyday basis
+Male,22,3,Buy,16-20,1-5,Teachers,Both,On everyday basis
+Male,21,1,Buy,1-5,11-15,Parents,Both,A few times a week
+Female,20,2,Others,,1-5,Self-Decision,Both,Once or twice a year
+Male,21,1,Used-all,1-5,1-5,Self-Decision,Both,A few times a month
+Female,20,1,Used-all,11-15,6-10,Teachers,Both,On everyday basis
+Male,20,4,Used-all,1-5,11-15,Self-Decision,Both,On everyday basis
+Male,21,2,E-books,6-10,1-5,Self-Decision,Printed,On everyday basis
+Female,21,1,E-books,11-15,6-10,Self-Decision,Both,A few times a week
+Male,20,3,E-books,11-15,11-15,Self-Decision,Both,Once or twice a year
+Male,19,1,Buy,1-5,,Parents,Both,On everyday basis
+Male,21,1,E-books,6-10,1-5,Self-Decision,E-books,Once or twice a year
+Male,22,1,Buy,1-5,1-5,Parents,Printed,On everyday basis
+Male,23,1,Buy,More than 20,More than 20,Self-Decision,Printed,On everyday basis
+Male,21,1,E-books,More than 20,More than 20,Friends,Both,A few times a month
+Female,18,4,Borrow,11-15,More than 20,Self-Decision,Both,On everyday basis
+Male,22,2,Used-all,More than 20,6-10,Parents,Both,On everyday basis
+Male,22,3,Borrow,6-10,More than 20,Friends,E-books,On everyday basis
+Male,22,1,E-books,16-20,6-10,Friends,E-books,A few times a month
+Female,21,1,Buy,1-5,1-5,Teachers,Both,A few times a week
+Male,22,2,Others,1-5,1-5,Self-Decision,Both,A few times a week
+Female,20,1,Others,1-5,1-5,Self-Decision,Both,A few times a week
+Male,20,1,Borrow,11-15,6-10,Self-Decision,Printed,A few times a week
+Female,21,1,E-books,1-5,6-10,Self-Decision,Both,A few times a week
+Male,21,2,Buy,1-5,11-15,Teachers,Both,A few times a week
+Male,21,2,E-books,6-10,11-15,Self-Decision,Printed,On everyday basis
+Male,20,4,Used-all,6-10,6-10,Self-Decision,E-books,On everyday basis
+Female,20,2,Used-all,1-5,1-5,Self-Decision,Both,A few times a month
+Male,19,1,Buy,1-5,1-5,Self-Decision,E-books,On everyday basis
+Male,20,1,Borrow,6-10,,Friends,Printed,On everyday basis
+Male,20,1,Buy,1-5,16-20,Self-Decision,Both,On everyday basis
+Male,20,2,Buy,6-10,6-10,Friends,Both,A few times a week
+Male,20,1,Used-all,More than 20,More than 20,Self-Decision,Both,A few times a week
+Male,20,1,Buy,,6-10,Teachers,Printed,On everyday basis
+Male,19,1,Buy,1-5,6-10,Friends,Both,A few times a month
+Male,20,1,Borrow,1-5,1-5,Friends,E-books,A few times a week
+Male,21,3,Used-all,6-10,1-5,Teachers,Both,A few times a week
+Male,21,1,Others,,,Parents,Printed,A few times a week
+Male,22,1,Buy,,,Parents,Both,On everyday basis
+Male,22,2,Buy,11-15,1-5,Self-Decision,Both,A few times a week
+Male,22,2,Buy,,More than 20,Self-Decision,Printed,On everyday basis
+Female,22,1,Others,1-5,1-5,Self-Decision,Both,On everyday basis
+Female,21,2,Buy,1-5,11-15,Teachers,Both,On everyday basis
+Male,20,3,Used-all,6-10,6-10,Self-Decision,Both,On everyday basis
+Male,20,1,Used-all,,,Parents,Both,On everyday basis
+Male,20,2,E-books,1-5,6-10,Self-Decision,E-books,On everyday basis
+Male,21,1,Buy,,6-10,Parents,Both,Less than once a year
+Female,21,2,Buy,6-10,6-10,Self-Decision,Printed,On everyday basis
+Male,21,1,E-books,More than 20,6-10,Self-Decision,Both,A few times a week
+Male,19,2,Buy,11-15,1-5,Friends,Printed,On everyday basis
+Female,21,2,Used-all,More than 20,More than 20,Parents,Both,A few times a week
+Male,20,1,Used-all,11-15,11-15,Self-Decision,Both,A few times a week
+Male,19,4,Buy,,1-5,Teachers,Printed,A few times a week
+Male,20,1,Buy,1-5,6-10,Self-Decision,Both,On everyday basis
+Male,22,1,Used-all,11-15,6-10,Friends,Both,A few times a week
+Male,21,3,Others,1-5,1-5,Teachers,E-books,On everyday basis
+Female,19,4,Used-all,1-5,16-20,Self-Decision,Both,On everyday basis
+Female,20,2,Borrow,,1-5,Parents,Printed,A few times a month
+Female,21,4,Buy,1-5,1-5,Parents,Printed,A few times a week
+Female,22,2,Buy,1-5,1-5,Self-Decision,Both,On everyday basis
+Male,21,1,Buy,1-5,16-20,Self-Decision,Printed,A few times a week
+Male,20,3,Buy,1-5,6-10,Teachers,Printed,A few times a week
+Male,22,2,Buy,1-5,1-5,Self-Decision,E-books,A few times a week
+Female,20,2,Used-all,More than 20,1-5,Self-Decision,Both,A few times a week
+Male,20,2,Used-all,6-10,1-5,Self-Decision,E-books,On everyday basis
+Female,21,4,Buy,,More than 20,Self-Decision,Printed,On everyday basis
+Female,21,4,Used-all,More than 20,More than 20,Friends,Both,A few times a week
+Female,19,1,E-books,6-10,More than 20,Parents,Printed,A few times a week
+Female,21,3,Used-all,1-5,1-5,Teachers,Both,On everyday basis
+Male,22,1,Buy,1-5,11-15,Friends,Printed,A few times a week
+Female,20,4,Used-all,1-5,1-5,Self-Decision,Both,A few times a month
+Male,23,1,E-books,1-5,1-5,Teachers,Both,A few times a week
+Male,22,1,E-books,6-10,16-20,Teachers,Both,A few times a month
+Female,20,3,Buy,1-5,1-5,Parents,Printed,On everyday basis
+Male,21,1,Others,1-5,1-5,Self-Decision,Both,Once or twice a year
+Male,22,3,E-books,11-15,6-10,Friends,Both,A few times a week
+Male,20,2,Borrow,,More than 20,Self-Decision,Printed,A few times a week
+Male,22,3,Used-all,6-10,1-5,Self-Decision,Both,A few times a week
+Male,19,1,E-books,More than 20,6-10,Teachers,E-books,A few times a week
+Male,21,2,Used-all,6-10,6-10,Self-Decision,Both,A few times a week
+Female,21,4,Others,6-10,1-5,Teachers,Both,A few times a month
